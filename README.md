@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Filipe Santos 👋
 
 - 🔭 Hoje estou trabalhando como Full Stack
-- 🌱 Estou me formando em Bacharelado em Tecnologia da Informação
+- 🌱 Sou Formado Bacharelado em Tecnologia da Informação
 - 📫 Entrar em contato comigo em: filipe.rodri.stos@gmail.com
 
 <div style="display: inline_block"><br>
